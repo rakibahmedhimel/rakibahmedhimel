@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rakib Ahmed Himel
 
-<!--
-**rakibahmedhimel/rakibahmedhimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Python Enthusiast | ML Learner**
 
-Here are some ideas to get you started:
+💡 I’m currently building projects in:
+- Data Analysis with Pandas & Jupyter
+- Machine Learning (Scikit-Learn)
+- Real-World Problem Solving with Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** rakib.himel.39@gmail.com  
+📍 Based in: Bangladesh
+
+⚡ Fun fact: I'm transitioning from Computer Science into the world of Data & AI!
