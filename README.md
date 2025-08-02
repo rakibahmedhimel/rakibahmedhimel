@@ -1,13 +1,17 @@
-# 👋 Hi there! I'm Rakib Ahmed Himel
+# Hi, I'm Rakib 👋
 
-🎯 **Aspiring Data Analyst | Python Enthusiast | ML Learner**
+🚀 Aspiring Backend Developer | Python & FastAPI Enthusiast  
+💼 Currently building secure APIs with JWT and PostgreSQL  
+📚 Always learning & growing through hands-on projects  
+🔗 [LinkedIn](https://www.linkedin.com/in/rakib-ahmed-himel)
 
-💡 I’m currently building projects in:
-- Data Analysis with Pandas & Jupyter
-- Machine Learning (Scikit-Learn)
-- Real-World Problem Solving with Data
+### 🔧 Tech Stack
+- Python, FastAPI, SQLAlchemy
+- PostgreSQL, Alembic
+- Git & GitHub, Postman
 
-📫 **Reach me at:** rakib.himel.39@gmail.com  
-📍 Based in: Bangladesh
+### 📂 Notable Projects
+- **FastAPI JWT Auth Example** – [Repo](https://github.com/rakibahmedhimel/fastapi-jwt-auth-example)
+- (Add more here later)
 
-⚡ Fun fact: I'm transitioning from Computer Science into the world of Data & AI!
+Let’s connect!
