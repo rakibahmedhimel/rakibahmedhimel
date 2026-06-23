@@ -65,6 +65,8 @@ Highlights
 - Frontend-backend integration
 - Cloud deployment
 
+Live at : https://fastapi-blog-pi.vercel.app/
+
 ---
 
 📝 Task Management System
@@ -77,6 +79,8 @@ Highlights
 - CRUD operations
 - Structured database design
 - Frontend-backend integration
+
+Live at : https://todoapp-fullstack-zoim.onrender.com/auth/login-page
 
 ---
 
