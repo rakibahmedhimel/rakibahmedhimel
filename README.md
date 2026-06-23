@@ -1,57 +1,154 @@
-# Hi, I'm Rakib 👋
+Hi, I'm Rakib Ahmed Himel 👋
 
-🚀 Computer Science Graduate | Backend & Data Enthusiast  
-💼 Experience in backend development, data handling, and basic ML projects  
-📚 Focused on building real-world systems and improving continuously  
-🔗 [LinkedIn](https://www.linkedin.com/in/rakib-ahmed-himell/)
+🚀 Backend Developer | FastAPI & PostgreSQL Enthusiast | Computer Science Graduate
 
----
+I enjoy building scalable backend systems, designing relational databases, and developing real-world web applications. My experience includes backend API development, full-stack projects, database design, deployment, and data-focused applications.
 
-## 🔧 Tech Stack
-- **Backend:** FastAPI, REST APIs  
-- **Database:** PostgreSQL, SQLAlchemy  
-- **Languages:** Python, C++, Java  
-- **Tools:** Git, GitHub, Postman, Render  
-- **Others:** Data Handling, Basic Machine Learning  
+Currently focused on backend engineering, system design, and practical AI/ML applications.
 
 ---
 
-## 📂 Featured Projects
+🔧 Tech Stack
 
-### 📝 Fullstack ToDo Application  
-🔗 https://github.com/rakibahmedhimel/todoapp-fullstack  
-- Fullstack task management system  
-- Authentication, CRUD operations, structured data handling  
+Backend
+
+- FastAPI
+- REST APIs
+- JWT Authentication
+- SQLAlchemy
+- Alembic
+
+Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Neon Database
+
+Frontend
+
+- React (Basics)
+- JavaScript
+- HTML
+- CSS
+- Jinja Templates
+
+Tools & Deployment
+
+- Git & GitHub
+- Postman
+- Docker (Basics)
+- Linux (Basics)
+- Render
+- Vercel
+
+Languages
+
+- Python
+- C++
+- C
 
 ---
 
-### 📰 Blog API (Backend System)  
-🔗 https://github.com/rakibahmedhimel/blog-api  
-- REST API with authentication, posts, comments, likes  
-- Designed relational database and optimized queries  
+🚀 Featured Projects
+
+📚 Batch Manager System
+
+A full-stack batch and user management platform with role-based access control.
+
+Highlights
+
+- FastAPI backend with modular architecture
+- JWT authentication and authorization
+- PostgreSQL relational database design
+- Alembic migrations
+- Frontend-backend integration
+- Cloud deployment
 
 ---
 
-### 🏋️ Push-up Repetition Counter (ML / CV)  
-🔗 https://github.com/rakibahmedhimel/pushup-repetition-count  
-- Pose detection-based system to count push-ups  
-- Real-time video processing with body keypoints  
+📝 Task Management System
+
+A productivity-focused task management application.
+
+Highlights
+
+- User authentication
+- CRUD operations
+- Structured database design
+- Frontend-backend integration
 
 ---
 
-### ⏱️ Plank Hold Timer (ML / CV)  
-🔗 https://github.com/rakibahmedhimel/plank-hold-timer  
-- Posture detection system to track plank duration  
-- Applied real-time pose estimation  
+📰 Blog API
+
+Backend system supporting social interactions.
+
+Highlights
+
+- Authentication & authorization
+- Posts, comments, and likes
+- Relational database design
+- RESTful API architecture
+
+Repository: https://github.com/rakibahmedhimel/blog-api
 
 ---
 
-## 🎯 Current Focus
-- Backend development (FastAPI)  
-- Data handling & system design  
-- Exploring real-world ML applications  
+🏋️ AI Push-Up Repetition Counter
+
+Computer vision application using pose estimation.
+
+Highlights
+
+- Real-time exercise detection
+- Pose landmark processing
+- Push-up counting system
+- Form validation logic
 
 ---
 
-## 🤝 Let’s Connect
-I’m actively seeking opportunities to learn, grow, and contribute in backend, data, or AI-related roles.
+⏱️ AI Plank Hold Timer
+
+Posture-aware plank tracking application.
+
+Highlights
+
+- Real-time pose estimation
+- Posture validation
+- Duration tracking
+- Computer vision integration
+
+---
+
+💼 Experience
+
+Trainee Software Developer
+
+Loosely Coupled Technologies
+
+- Data validation and quality assurance
+- Data cleaning and preprocessing
+- Dataset verification and management
+- Maintaining data integrity across workflows
+
+---
+
+🎯 Current Focus
+
+- Backend Development with FastAPI
+- Database Design & Optimization
+- API Architecture
+- System Design Fundamentals
+- Data Analysis & Machine Learning
+- Production Deployment
+
+---
+
+📫 Connect With Me
+
+- Email: rakib.himel.39@gmail.com
+- GitHub: github.com/rakibahmedhimel
+- LinkedIn: linkedin.com/in/rakib-ahmed-himell
+
+⭐ Always learning, building, and improving through real-world projects.
